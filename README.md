@@ -30,12 +30,12 @@ https://www.meteor.com/install
 ![](https://i.imgur.com/yAzKooV.png)
 
 #### show all
-顯示所有待辦事項(以完成/未完成)
+顯示所有待辦事項(已完成/未完成)
 #### finished
-顯示以完成事項
+顯示已完成事項
 #### on-going
 顯示未完成事項
 #### clear finished
-清除以完成事項
+清除已完成事項
 #### reset
 清除所有待辦事項
